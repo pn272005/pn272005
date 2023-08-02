@@ -1,0 +1,16 @@
+- 👋 Hi, I’m @pn272005
+- 👀 I’m interested in learning computer science programmes and about artificial intelligence...
+- 🌱 I’m currently learning diap course in computer science at IT park hubli...
+- 💞️ I’m looking to collaborate on learning computer science...
+- 📫 How to reach me dreaming_of_my world instagram account...
+-languages known-Kannada,English,Hindi
+-Hobbies-Reading mythological stories books,listening to music,dancing and travelling....
+-Nationality-Indian
+-Caste-scheduled caste
+-Qualification-2nd puc completed at MDRS COLLEGE TARLAGATTA,looking for engeneering with cse course
+ DECLARATION: I hereby declared that the above-mentioned Information’s are true to best of my knowledge and belief.
+
+<!---
+pn272005/pn272005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
